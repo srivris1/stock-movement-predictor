@@ -1,0 +1,11 @@
+numpy==2.3.4
+pandas==2.3.3
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+yfinance==1.7.0
+ta==0.11.0
+shap==0.52.0
+scipy==1.18.1
+nbformat==5.11.1
+joblib==1.6.0
